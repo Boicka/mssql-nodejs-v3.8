@@ -1,0 +1,21 @@
+{
+  "name": "mssql-nodejs-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "morgan": "^1.10.0",
+    "mssql": "^8.0.1",
+    "sweetalert2": "^11.4.0"
+  }
+}
